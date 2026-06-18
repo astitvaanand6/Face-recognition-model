@@ -1,2 +1,3 @@
 # Face-recognition-model
 A real-time face recognition system built using Python and OpenCV. Uses Haar Cascade for face detection and the LBPH (Local Binary Pattern Histogram) algorithm for recognition. Supports multi-person recognition with confidence-based labeling. Trained model is not included — run the training script on your own dataset to generate it.
+i have not included the trained model here just put all files here into a folder and then create another folder in the folder in which all the files are and create more folder with the persons face whose face u want to recognize(ideally 300-400 photos all in diffrent light conditions and diffrent distances from the camera) the rest should work without any problem still if there is do tell me 
