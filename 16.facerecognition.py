@@ -3,7 +3,7 @@ import os
 import numpy as np
 people=['person1','person2']
 hc=cv.CascadeClassifier('haar_face.xml')
-DIR = r'C:\Users\anand\OneDrive\Documents\opencv project\picures'
+DIR = r'FILE PATH HERE WHERE THE PERSON PHOTOS WILL BE STORED '
 features=[]
 labels=[]
 
